@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+  <rect width="1280" height="360" fill="#141312"/>
+  <text x="96" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1" fill="#f1eee9">youtube-mcp</text>
+  <text x="96" y="214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="26" fill="#f1eee9">Your own private YouTube connector for Claude.</text>
+  <text x="96" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" fill="#a19b93">Real channel analytics and all of public YouTube. Self-hosted, read-only, no database.</text>
+  <line x1="96" y1="296" x2="1184" y2="296" stroke="#2e2c29" stroke-width="1"/>
+</svg>
